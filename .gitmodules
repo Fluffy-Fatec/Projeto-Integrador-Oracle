@@ -1,0 +1,6 @@
+[submodule "api-frontend"]
+	path = API Front-end
+	url = https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle-Frontend
+[submodule "api-backend"]
+	path = API Back-end
+	url = https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle-Backend
