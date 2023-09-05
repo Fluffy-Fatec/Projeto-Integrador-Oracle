@@ -1,6 +1,3 @@
 [submodule "Projeto-Integrador-Oracle-Frontend"]
 	path = Projeto-Integrador-Oracle-Frontend
 	url = https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle-Frontend
-[submodule "Projeto-Integrador-Oracle-Backend"]
-	path = Projeto-Integrador-Oracle-Backend
-	url = https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle-Backend
