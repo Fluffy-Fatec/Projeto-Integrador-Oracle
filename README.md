@@ -24,6 +24,10 @@
 
 ## Challenge
 
+
+
+<p align="right">(<a href="#top">scroll to top</a>)</p>
+
 <li>Functional Requirements</li>
 <ul>
       <li>Develop an organizational panel of personnel and suppliers and inputs;</li>
@@ -49,11 +53,11 @@
 
 | Event            		  | Date         |
 | ------------------------| -------------|
-|Kick-off                 |21/08 to 28/08|
-|Sprint 1                 |04/09 to 24/09|
-|Sprint 2                 |25/09 to 15/10|
-|Sprint 3                 |16/10 to 05/11|
-|Sprint 4                 |06/11 to 26/11|
+|Kick-off                 |08/21 to 08/28|
+|Sprint 1                 |09/04 to 09/24|
+|Sprint 2                 |09/25 to 10/15|
+|Sprint 3                 |10/16 to 11/05|
+|Sprint 4                 |11/06 to 11/26|
 |Feira de Soluções        |12/12         |
 
 <p align="right">(<a href="#top">scroll to top</a>)</p>
