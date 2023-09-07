@@ -1,24 +1,42 @@
 # Projeto-Integrador-Oracle
-API project in partnership with Oracle
+
+<p align="center"> 
+      <a href="https://www.java.com/pt-BR/">
+            <img src="https://img.shields.io/badge/Backend Language%3A-SPRING BOOT-red"/>
+      </a>
+      <a href="https://www.javascript.com/">
+            <img src="https://img.shields.io/badge/Frontend Language%3A-VUE.JS-yellow"/>
+      </a>
+      <a href="https://www.iacit.com.br">
+            <img src="https://img.shields.io/badge/Client%3A-ORACLE-blue"/>
+      </a>
+      <a href="http://fatecsjc-prd.azurewebsites.net/">
+            <img src="https://img.shields.io/badge/Institution%3A-FATEC-orange"/>
+      </a>
+</p>
+
+<p align="center">
+      <a href="#challenge">About the project</a> •
+      <a href="#schedule">Schedule</a> •
+      <a href="#team">Team</a> •
+      <a href="#utilized-tecnologies">Utilized Tecnologies</a>
+</p>
 
 ## Challenge
 
 <li>Functional Requirements</li>
 <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Develop an organizational panel of personnel and suppliers and inputs;</li>
+      <li>Develop an employee flow dashboard, people flow, inventory, best selling dishes;</li>
+      <li>Develop a comparator of customers x staff x stock, another comparator of predictability of inputs for preparing dishes;</li>
+      <li>In the comparator, check the inputs and present what needs to be purchased, in the personnel comparator, consider the flow of customers.</li>
 </ul>
 
 <li>Non-Functional Requirements</li>
 <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>The website's response time must be below 1000ms in 99.99% of the requests;</li>
+      <li>The application's logging mechanism must generate the trails in JSON format (optional);</li>
+      <li>The system must contain metrics that help to observe its behavior: Quantity of requests, response time, quantity and percentage of failures when obtaining data from Golden Sources.</li>
 </ul>
 
 <p align="right">(<a href="#top">scroll to top</a>)</p>
@@ -29,14 +47,14 @@ API project in partnership with Oracle
 
 ## Schedule
 
-| Event            							   | Date              |
-| -------------------------------------------- | ------------------|
-|Kick-off                                           |21/08 to 28/08|
-|Sprint 1                                           |04/09 to 24/09|
-|Sprint 2                                           |25/09 to 15/10|
-|Sprint 3                                           |16/10 to 05/11|
-|Sprint 4                                           |06/11 to 26/11|
-|Feira de Soluções                                  |12/12         |
+| Event            		  | Date         |
+| ------------------------| -------------|
+|Kick-off                 |21/08 to 28/08|
+|Sprint 1                 |04/09 to 24/09|
+|Sprint 2                 |25/09 to 15/10|
+|Sprint 3                 |16/10 to 05/11|
+|Sprint 4                 |06/11 to 26/11|
+|Feira de Soluções        |12/12         |
 
 <p align="right">(<a href="#top">scroll to top</a>)</p>
 
@@ -73,17 +91,17 @@ API project in partnership with Oracle
 
 <p align="right">(<a href="#top">scroll to top</a>)</p>
 
-## Equipe
+## Team
 
 | Avatar            							| Aluno         | Função           		| GitHub                                                      | LinkedIn                                              |
 | -------------------------------------------- | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
-| <img src = "" width="60" >|__Michael Felipe__| *Product Owner*| [![](https://bit.ly/3f9Xo0P)](https://github.com/Michaelfss/Michaelfss) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/michael-felipe-573b64167) |
-| <img src = "" width="60" >|__Tiago Camillo__| *Scrum Master*| [![](https://bit.ly/3f9Xo0P)](https://github.com/tiagocamillo) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/tiago-camillo-277257192/) |
-| <img src = "" width="60" >|__Luiz Felipe Borges__ | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/luizborges17)   | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/luizborges17/) |
-| <img src = "" width="60" >|__Ana Clara Leal__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/heyanaleal)      | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/ana-clara-oliveira-leal-723169220/) |
-| <img src = "" width="60" >|__Victor Fernandes__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/victornaca)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/victor-fernandes-1a61a917b/) |
-| <img src = "" width="60" >|__Aldrik Álvaro__| *Developer Team*| [![](https://bit.ly/3f9Xo0P)](https://github.com/Aldrik-Alvaro) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/aldrik-alvaro-0bb952180/) |
-| <img src = "" width="60" >|__Emanuele Diniz__| *Developer Team*| [![](https://bit.ly/3f9Xo0P)](https://github.com/ecampos14) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/emanuele-diniz-campos-b14699181) |
+| <img src = "./Documentacao/Team/imgMichael.jpeg" width="60" >|__Michael Felipe__| *Product Owner*| [![](https://bit.ly/3f9Xo0P)](https://github.com/Michaelfss/Michaelfss) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/michael-felipe-573b64167) |
+| <img src = "./Documentacao/Team/imgTiago.jpeg" width="60" >|__Tiago Camillo__| *Scrum Master*| [![](https://bit.ly/3f9Xo0P)](https://github.com/tiagocamillo) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/tiago-camillo-277257192/) |
+| <img src = "./Documentacao/Team/imgAldrik.jpeg" width="60" >|__Aldrik Álvaro__| *Developer Team*| [![](https://bit.ly/3f9Xo0P)](https://github.com/Aldrik-Alvaro) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/aldrik-alvaro-0bb952180/) |
+| <img src = "./Documentacao/Team/imgAna.jpeg" width="60" >|__Ana Clara Leal__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/heyanaleal)      | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/ana-clara-oliveira-leal-723169220/) |
+| <img src = "./Documentacao/Team/imgEmanuele.jpeg" width="60" >|__Emanuele Diniz__| *Developer Team*| [![](https://bit.ly/3f9Xo0P)](https://github.com/ecampos14) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/emanuele-diniz-campos-b14699181) |
+| <img src = "./Documentacao/Team/imgLuiz.jpeg" width="60" >|__Luiz Felipe Borges__ | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/luizborges17)   | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/luizborges17/) |
+| <img src = "./Documentacao/Team/imgVictor.jpeg" width="60" >|__Victor Fernandes__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/victornaca)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/victor-fernandes-1a61a917b/) |
 
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
