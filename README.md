@@ -24,7 +24,7 @@
 
 ## Challenge
 
-
+In this challenge, you will have the opportunity to create an online platform that will allow restaurant owners to manage their operations in an efficient and intuitive way. The objective is to create a comprehensive system that offers resources such as control panels, graphs, reports and functionalities for managing personnel, suppliers and inputs.
 
 <p align="right">(<a href="#top">scroll to top</a>)</p>
 
@@ -47,11 +47,13 @@
 
 ## Solution
 
+The Fluffy team will develop a web system that will allow the management of inputs and employees, as well as providing visualization of processed data so that the business owner can manage their sales, stocks, work team and project their future actions.
+
 <p align="right">(<a href="#top">scroll to top</a>)</p>
 
 ## Schedule
 
-| Event            		  | Date         |
+| Event                   | Date         |
 | ------------------------| -------------|
 |Kick-off                 |08/21 to 08/28|
 |Sprint 1                 |09/04 to 09/24|
@@ -66,11 +68,33 @@
 
 <li>Sprint 1:</li>
 <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Structuring and persistence of the database and data warehouse;</li>
+      <li>Data ETL process;</li>
+      <li>Initial development of the user interface;</li>
+      <li>Initial data visualization.</li>
+</ul>
+
+<li>Sprint 2:</li>
+<ul>
+      <li>Development of the supplier management module;</li>
+      <li>Refinement of data visualization graphs;</li>
+      <li>Development of reports for decision making.</li>
+</ul>
+
+<li>Sprint 3:</li>
+<ul>
+      <li>Development of the employee management module;</li>
+      <li>Development of graphs relating to employee data;</li>
+      <li>Create a comparison of customers x employees x stock;</li>
+      <li>Implement the input predictability comparator.</li>
+</ul>
+
+<li>Sprint 4:</li>
+<ul>
+      <li>Login and access levels;</li>
+      <li>Data enrichment in the data warehouse;</li>
+      <li>Refinement of BI charts;</li>
+      <li>Implement application logging mechanism in JSON format (optional).</li>
 </ul>
 
 <p align="right">(<a href="#top">scroll to top</a>)</p>
@@ -92,6 +116,8 @@
 <p align="right">(<a href="#top">scroll to top</a>)</p>
 
 ## Data Dictionary
+
+[Click here to accesses the Data Dictionary.]()
 
 <p align="right">(<a href="#top">scroll to top</a>)</p>
 
