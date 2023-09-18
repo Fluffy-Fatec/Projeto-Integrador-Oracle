@@ -90,6 +90,12 @@ The Fluffy team will develop a web system that will allow the management of inpu
 
 ## Mockup
 
+### Dashboard Screen
+<img src = "./Documentacao/Mockup/Mockup_1_Sprint_1.jpg">
+
+### Upload Data Screen
+<img src = "./Documentacao/Mockup/Mockup_2_Sprint_1.jpg">
+
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Physical Model (James Martin's Notation)
@@ -106,11 +112,13 @@ The Fluffy team will develop a web system that will allow the management of inpu
 
 ## Burndown
 
+<img src = "./Documentacao/Burndown/Burndown_Sprint_1.jpg">
+
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Data Dictionary
 
-[Click here to accesses the Data Dictionary.]()
+[Click here to accesses the Data Dictionary.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/development/Documentacao/Dictionary/Data_Dictionary_Sprint_1.pdf)
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
