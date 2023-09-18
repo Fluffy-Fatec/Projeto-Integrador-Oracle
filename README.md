@@ -26,7 +26,7 @@
 
 In this challenge, you will have the opportunity to create an online platform that will allow restaurant owners to manage their operations in an efficient and intuitive way. The objective is to create a comprehensive system that offers resources such as control panels, graphs, reports and functionalities for managing personnel, suppliers and inputs.
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 <li>Functional Requirements</li>
 <ul>
@@ -43,13 +43,13 @@ In this challenge, you will have the opportunity to create an online platform th
       <li>The system must contain metrics that help to observe its behavior: Quantity of requests, response time, quantity and percentage of failures when obtaining data from Golden Sources.</li>
 </ul>
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Solution
 
 The Fluffy team will develop a web system that will allow the management of inputs and employees, as well as providing visualization of processed data so that the business owner can manage their sales, stocks, work team and project their future actions.
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Schedule
 
@@ -62,64 +62,65 @@ The Fluffy team will develop a web system that will allow the management of inpu
 |Sprint 4                 |11/06 to 11/26|
 |Feira de Soluções        |12/12         |
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Backlog
 
-<li>Sprint 1:</li>
-<ul>
-      <li>Structuring and persistence of the database and data warehouse;</li>
-      <li>Data ETL process;</li>
-      <li>Initial development of the user interface;</li>
-      <li>Initial data visualization.</li>
-</ul>
+<li>Structuring and persistence of the database and data warehouse;</li>
+<li>Data ETL process;</li>
+<li>Initial development of the user interface;</li>
+<li>Initial data visualization.</li>
 
-<li>Sprint 2:</li>
-<ul>
-      <li>Development of the supplier management module;</li>
-      <li>Refinement of data visualization graphs;</li>
-      <li>Development of reports for decision making.</li>
-</ul>
+<li>Development of the supplier management module;</li>
+<li>Refinement of data visualization graphs;</li>
+<li>Development of reports for decision making.</li>
 
-<li>Sprint 3:</li>
-<ul>
-      <li>Development of the employee management module;</li>
-      <li>Development of graphs relating to employee data;</li>
-      <li>Create a comparison of customers x employees x stock;</li>
-      <li>Implement the input predictability comparator.</li>
-</ul>
+<li>Development of the employee management module;</li>
+<li>Development of graphs relating to employee data;</li>
+<li>Create a comparison of customers x employees x stock;</li>
+<li>Implement the input predictability comparator.</li>
 
-<li>Sprint 4:</li>
-<ul>
-      <li>Login and access levels;</li>
-      <li>Data enrichment in the data warehouse;</li>
-      <li>Refinement of BI charts;</li>
-      <li>Implement application logging mechanism in JSON format (optional).</li>
-</ul>
+<li>Login and access levels;</li>
+<li>Data enrichment in the data warehouse;</li>
+<li>Refinement of BI charts;</li>
+<li>Implement application logging mechanism in JSON format (optional).</li>
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Mockup
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+### Dashboard Screen
+<img src = "./Documentacao/Mockup/Mockup_1_Sprint_1.jpg">
 
-## Conceptual Model
+### Upload Data Screen
+<img src = "./Documentacao/Mockup/Mockup_2_Sprint_1.jpg">
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-## Logical Model
+## Physical Model (James Martin's Notation)
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+<img src = "./Documentacao/DER/DBConceptualModel.jpg">
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
+
+## Logical Model (James Martin's Notation)
+
+<img src = "./Documentacao/DER/DBLogicalModel.jpg">
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Burndown
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+<img src = "./Documentacao/Burndown/Burndown_Sprint_1.jpg">
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Data Dictionary
 
-[Click here to accesses the Data Dictionary.]()
+[Click here to accesses the Data Dictionary.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/development/Documentacao/Dictionary/Data_Dictionary_Sprint_1.pdf)
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Team
 
@@ -134,7 +135,7 @@ The Fluffy team will develop a web system that will allow the management of inpu
 | <img src = "./Documentacao/Team/imgVictor.jpg" width="60" >|__Victor Fernandes__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/victornaca)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/victor-fernandes-1a61a917b/) |
 
 
-<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 
 ## Utilized Tecnologies
@@ -172,7 +173,7 @@ The Fluffy team will develop a web system that will allow the management of inpu
 * [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
 </details>
 
-<p align="right">(<a href="#top">scroll to top</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ---
 
