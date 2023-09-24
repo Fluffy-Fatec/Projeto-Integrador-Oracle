@@ -1,5 +1,8 @@
 # Projeto-Integrador-Oracle
 
+<img src = "./Documentacao/Team/imgOracleFatec_1.jpg">
+<br>
+
 <p align="center"> 
       <a href="https://www.java.com/pt-BR/">
             <img src="https://img.shields.io/badge/Backend Language%3A-SPRING BOOT-red"/>
@@ -66,19 +69,19 @@ The Fluffy team will develop a web system that will allow the management of inpu
 
 ## Backlog
 
-<li>Structuring and persistence of the database and data warehouse;</li>
-<li>Data ETL process;</li>
-<li>Initial development of the user interface;</li>
-<li>Initial data visualization.</li>
+<li>Development of the database regarding the Sales module;</li>
+<li>Interface development of the sales screen;</li>
+<li>Development of the file upload interface;</li>
+<li>Processing of data extracted from .csv;</li>
 
 <li>Development of the supplier management module;</li>
 <li>Refinement of data visualization graphs;</li>
-<li>Development of reports for decision making.</li>
+<li>Development of reports for decision making;</li>
 
 <li>Development of the employee management module;</li>
 <li>Development of graphs relating to employee data;</li>
 <li>Create a comparison of customers x employees x stock;</li>
-<li>Implement the input predictability comparator.</li>
+<li>Implement the input predictability comparator;</li>
 
 <li>Login and access levels;</li>
 <li>Data enrichment in the data warehouse;</li>
@@ -100,13 +103,13 @@ The Fluffy team will develop a web system that will allow the management of inpu
 
 ## Physical Model (James Martin's Notation)
 
-<img src = "./Documentacao/DER/DBConceptualModel.jpg">
+<img src = "./Documentacao/DER/DBConceptualModel.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Logical Model (James Martin's Notation)
 
-<img src = "./Documentacao/DER/DBLogicalModel.jpg">
+<img src = "./Documentacao/DER/DBLogicalModel.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -174,6 +177,10 @@ The Fluffy team will develop a web system that will allow the management of inpu
 </details>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
+
+<br>
+<img src = "./Documentacao/Team/imgOracleFatec_2.jpg">
+<br>
 
 ---
 
