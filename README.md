@@ -1,7 +1,7 @@
 # Projeto-Integrador-Oracle
 
 <img src = "./Documentacao/Team/imgOracleFatec_1.jpg">
-<br><br>
+<br>
 
 <p align="center"> 
       <a href="https://www.java.com/pt-BR/">
