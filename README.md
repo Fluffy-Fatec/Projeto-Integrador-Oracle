@@ -52,6 +52,18 @@ In this challenge, you will have the opportunity to create an online platform th
 
 The Fluffy team will develop a web system that will allow the management of inputs and employees, as well as providing visualization of processed data so that the business owner can manage their sales, stocks, work team and project their future actions.
 
+Aiming to solve the project, the system will be delivered in four sprints:
+
+
+| Sprint                  | Need      | Product         |
+| ------------------------| -------------|-------------|
+|Sprint 1                 | Visualization of the establishment's Sales data | System developed with functionalities for inserting data related to sales via .csv files and viewing them through various graphs and dynamic filters. |
+|Sprint 2                 | Visualization and management of the establishment's Suppliers data, visualization of reports for future decision making. | System developed with functionalities for inserting data related to suppliers and viewing them through various graphs and dynamic filters. The payment part and reports for data comparisons were also developed. |
+|Sprint 3                 | Visualization and management of the establishment's Inputs and Stock data, visualization of comparators for predictability. | System developed with functionalities for inserting data related to inputs and stock, as well as viewing them through various graphs and dynamic filters. It was also implemented the input predictability comparator. |
+|Sprint 4                 | Visualization and management of the establishment's Employees data, comparison of customers x employees x stock, access level. | System will be developed with functionalities for inserting data related to employees and also visualizing them through various graphs and dynamic filters. A comparator of customers x employees x stock, and system access levels will also be implemented. |
+
+
+
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Schedule
@@ -67,27 +79,9 @@ The Fluffy team will develop a web system that will allow the management of inpu
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-## Backlog
+## Product Backlog
 
-<li>Development of the database regarding the Sales module;</li>
-<li>Interface development of the sales screen;</li>
-<li>Development of the file upload interface;</li>
-<li>Processing of data extracted from .csv;</li>
-
-<li>Development of the supplier management module;</li>
-<li>Refinement of data visualization graphs;</li>
-<li>Development of reports for decision making;</li>
-
-<li>Development of the employee management module;</li>
-<li>Development of graphs relating to employee data;</li>
-<li>Create a comparison of customers x employees x stock;</li>
-<li>Implement the input predictability comparator;</li>
-
-<li>Login and access levels;</li>
-<li>Data enrichment in the data warehouse;</li>
-<li>Refinement of BI charts;</li>
-<li>Implement application logging mechanism in JSON format (optional).</li>
-
+<img src = "./Documentacao/Backlog/imgBacklog_Sprint_2.png" width=80%>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
