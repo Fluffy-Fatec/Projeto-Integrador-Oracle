@@ -4,16 +4,16 @@
 <br>
 
 <p align="center"> 
-      <a href="https://www.java.com/pt-BR/">
+      <a>
             <img src="https://img.shields.io/badge/Backend Language%3A-SPRING BOOT-red"/>
       </a>
-      <a href="https://www.javascript.com/">
+      <a>
             <img src="https://img.shields.io/badge/Frontend Language%3A-VUE.JS-yellow"/>
       </a>
-      <a href="https://www.iacit.com.br">
+      <a>
             <img src="https://img.shields.io/badge/Client%3A-ORACLE-blue"/>
       </a>
-      <a href="http://fatecsjc-prd.azurewebsites.net/">
+      <a>
             <img src="https://img.shields.io/badge/Institution%3A-FATEC-orange"/>
       </a>
 </p>
@@ -90,26 +90,31 @@ Aiming to solve the project, the system will be delivered in four sprints:
 ### Dashboard Screen
 <img src = "./Documentacao/Mockup/Mockup_1_Sprint_1.jpg">
 
-### Upload Data Screen
+### Upload Sales Data Screen
 <img src = "./Documentacao/Mockup/Mockup_2_Sprint_1.jpg">
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
+
+### Suppliers Screen
+<img src = "./Documentacao/Mockup/Mockup_1_Sprint_2.jpg">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Physical Model (James Martin's Notation)
 
-<img src = "./Documentacao/DER/DBConceptualModel.png">
+<img src = "./Documentacao/DER/DBConceptualModel_2.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Logical Model (James Martin's Notation)
 
-<img src = "./Documentacao/DER/DBLogicalModel.png">
+<img src = "./Documentacao/DER/DBLogicalModel_2.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Burndown
 
-<img src = "./Documentacao/Burndown/Burndown_Sprint_1.jpg">
+<img src = "./Documentacao/Burndown/Burndown_Sprint_2.jpg">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -118,6 +123,12 @@ Aiming to solve the project, the system will be delivered in four sprints:
 [Click here to accesses the Data Dictionary.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/development/Documentacao/Dictionary/Data_Dictionary_Sprint_1.pdf)
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
+
+<!--## DevOps Documentation
+
+[Click here to accesses the DevOps Documentation.]()
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>-->
 
 ## Team
 
