@@ -100,17 +100,26 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-## Physical Model (James Martin's Notation)
+## DER
+
+### Database
+
+#### Physical Model (James Martin's Notation)
 
 <img src = "./Documentacao/DER/DBConceptualModel_2.png">
 
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
-
-## Logical Model (James Martin's Notation)
+#### Logical Model (James Martin's Notation)
 
 <img src = "./Documentacao/DER/DBLogicalModel_2.png">
 
+### Data Warehouse
+
+#### Star Model
+
+<img src = "./Documentacao/DER/DW_StarModel_2.png">
+
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
+
 
 ## Burndown
 
