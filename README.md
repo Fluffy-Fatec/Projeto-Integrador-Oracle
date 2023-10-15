@@ -120,7 +120,6 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-
 ## Burndown
 
 <img src = "./Documentacao/Burndown/Burndown_Sprint_2.jpg">
@@ -129,7 +128,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ## Data Dictionary
 
-[Click here to accesses the Data Dictionary.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/development/Documentacao/Dictionary/Data_Dictionary_Sprint_1.pdf)
+[Click here to accesses the Data Dictionary of the Database and Data Warehouse.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/development/Documentacao/Dictionary)
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
