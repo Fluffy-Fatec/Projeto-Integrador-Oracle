@@ -4,16 +4,16 @@
 <br>
 
 <p align="center"> 
-      <a href="https://www.java.com/pt-BR/">
+      <a>
             <img src="https://img.shields.io/badge/Backend Language%3A-SPRING BOOT-red"/>
       </a>
-      <a href="https://www.javascript.com/">
+      <a>
             <img src="https://img.shields.io/badge/Frontend Language%3A-VUE.JS-yellow"/>
       </a>
-      <a href="https://www.iacit.com.br">
+      <a>
             <img src="https://img.shields.io/badge/Client%3A-ORACLE-blue"/>
       </a>
-      <a href="http://fatecsjc-prd.azurewebsites.net/">
+      <a>
             <img src="https://img.shields.io/badge/Institution%3A-FATEC-orange"/>
       </a>
 </p>
@@ -52,6 +52,18 @@ In this challenge, you will have the opportunity to create an online platform th
 
 The Fluffy team will develop a web system that will allow the management of inputs and employees, as well as providing visualization of processed data so that the business owner can manage their sales, stocks, work team and project their future actions.
 
+Aiming to solve the project, the system will be delivered in four sprints:
+
+
+| Sprint                  | Need      | Product         |
+| ------------------------| -------------|-------------|
+|Sprint 1                 | Visualization of the establishment's Sales data | System developed with functionalities for inserting data related to sales via .csv files and viewing them through various graphs and dynamic filters. |
+|Sprint 2                 | Visualization and management of the establishment's Suppliers data, visualization of reports for future decision making. | System developed with functionalities for inserting data related to suppliers and viewing them through various graphs and dynamic filters. The payment part and reports for data comparisons were also developed. |
+|Sprint 3                 | Visualization and management of the establishment's Inputs and Stock data, visualization of comparators for predictability. | System developed with functionalities for inserting data related to inputs and stock, as well as viewing them through various graphs and dynamic filters. It was also implemented the input predictability comparator. |
+|Sprint 4                 | Visualization and management of the establishment's Employees data, comparison of customers x employees x stock, access level. | System will be developed with functionalities for inserting data related to employees and also visualizing them through various graphs and dynamic filters. A comparator of customers x employees x stock, and system access levels will also be implemented. |
+
+
+
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Schedule
@@ -67,27 +79,9 @@ The Fluffy team will develop a web system that will allow the management of inpu
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-## Backlog
+## Product Backlog
 
-<li>Development of the database regarding the Sales module;</li>
-<li>Interface development of the sales screen;</li>
-<li>Development of the file upload interface;</li>
-<li>Processing of data extracted from .csv;</li>
-
-<li>Development of the supplier management module;</li>
-<li>Refinement of data visualization graphs;</li>
-<li>Development of reports for decision making;</li>
-
-<li>Development of the employee management module;</li>
-<li>Development of graphs relating to employee data;</li>
-<li>Create a comparison of customers x employees x stock;</li>
-<li>Implement the input predictability comparator;</li>
-
-<li>Login and access levels;</li>
-<li>Data enrichment in the data warehouse;</li>
-<li>Refinement of BI charts;</li>
-<li>Implement application logging mechanism in JSON format (optional).</li>
-
+<img src = "./Documentacao/Backlog/imgBacklog_Sprint_2.png" width=80%>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -96,34 +90,53 @@ The Fluffy team will develop a web system that will allow the management of inpu
 ### Dashboard Screen
 <img src = "./Documentacao/Mockup/Mockup_1_Sprint_1.jpg">
 
-### Upload Data Screen
+### Upload Sales Data Screen
 <img src = "./Documentacao/Mockup/Mockup_2_Sprint_1.jpg">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-## Physical Model (James Martin's Notation)
-
-<img src = "./Documentacao/DER/DBConceptualModel.png">
+### Suppliers Screen
+<img src = "./Documentacao/Mockup/Mockup_1_Sprint_2.jpg">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-## Logical Model (James Martin's Notation)
+## DER
 
-<img src = "./Documentacao/DER/DBLogicalModel.png">
+### Database
+
+#### Physical Model (James Martin's Notation)
+
+<img src = "./Documentacao/DER/DBConceptualModel_2.png">
+
+#### Logical Model (James Martin's Notation)
+
+<img src = "./Documentacao/DER/DBLogicalModel_2.png">
+
+### Data Warehouse
+
+#### Star Model
+
+<img src = "./Documentacao/DER/DW_StarModel_2.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Burndown
 
-<img src = "./Documentacao/Burndown/Burndown_Sprint_1.jpg">
+<img src = "./Documentacao/Burndown/Burndown_Sprint_2.jpg">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Data Dictionary
 
-[Click here to accesses the Data Dictionary.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/development/Documentacao/Dictionary/Data_Dictionary_Sprint_1.pdf)
+[Click here to accesses the Data Dictionary of the Database and Data Warehouse.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/development/Documentacao/Dictionary)
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
+
+<!--## DevOps Documentation
+
+[Click here to accesses the DevOps Documentation.]()
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>-->
 
 ## Team
 
