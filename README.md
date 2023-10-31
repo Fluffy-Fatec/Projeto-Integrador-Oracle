@@ -122,7 +122,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ## Burndown
 
-<img src = "./Documentacao/Burndown/Burndown_Sprint_2.jpg">
+<img src = "./Documentacao/Burndown/Burndown_Sprint_3.jpg">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
