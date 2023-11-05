@@ -81,6 +81,12 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ## Product Backlog
 
+
+
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
+
+## Sprint Backlog
+
 <img src = "./Documentacao/Backlog/imgBacklog_Sprint_2.png" width=80%>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
@@ -88,15 +94,16 @@ Aiming to solve the project, the system will be delivered in four sprints:
 ## Mockup
 
 ### Dashboard Screen
-<img src = "./Documentacao/Mockup/Mockup_1_Sprint_1.jpg">
+<img src = "./Documentacao/Mockup/Mockup_1_Sprint_3.png">
 
 ### Upload Sales Data Screen
-<img src = "./Documentacao/Mockup/Mockup_2_Sprint_1.jpg">
-
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
+<img src = "./Documentacao/Mockup/Mockup_2_Sprint_3.png">
 
 ### Suppliers Screen
-<img src = "./Documentacao/Mockup/Mockup_1_Sprint_2.jpg">
+<img src = "./Documentacao/Mockup/Mockup_3_Sprint_3.png">
+
+### Stock Screen
+<img src = "./Documentacao/Mockup/Mockup_4_Sprint_3.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -104,19 +111,19 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ### Database
 
-#### Physical Model (James Martin's Notation)
+<!-- #### Physical Model (James Martin's Notation)
 
-<img src = "./Documentacao/DER/DBConceptualModel_2.png">
+<img src = "./Documentacao/DER/DBConceptualModel_2.png"> -->
 
 #### Logical Model (James Martin's Notation)
 
-<img src = "./Documentacao/DER/DBLogicalModel_2.png">
+<img src = "./Documentacao/DER/DBLogicalModel_3.png">
 
 ### Data Warehouse
 
 #### Star Model
 
-<img src = "./Documentacao/DER/DW_StarModel_2.png">
+<img src = "./Documentacao/DER/DW_StarModel_3.png">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
