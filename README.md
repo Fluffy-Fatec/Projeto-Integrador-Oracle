@@ -81,6 +81,27 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 ## Product Backlog
 
+| Rank           | Prioridade      | User Story         | Estimativa | Sprint |
+| ---------------| ----------------| -------------------| -----------| -------|
+| 1 | Alta | Como administrador do sistema, quero ter acesso a um painel de controle em tempo real para monitorar o desempenho do sistema e identificar possíveis problemas rapidamente. | 1 | 1 |
+| 2 | Alta | Como gerente da empresa, desejo um painel executivo que resuma as principais atividades do sistema para facilitar a análise e o acompanhamento. | 1 | 1 |
+| 3 | Alta | Como gerente da empresa, desejo ter a capacidade de visualizar o desempenho de vendas por período específico para análise e tomada de decisões. | 1 | 1 |
+| 4 | Média | Como responsável pelo setor financeiro, quero um sistema de faturamento automatizado e rastreamento de transações para agilizar o processo e garantir precisão. | 1 | 1 |
+| 5 | Média | Como usuário interessado no negócio, desejo acesso a análises e tendências sobre as preferências dos clientes para identificar oportunidades de negócio. | 3 | 1 |
+| 6 | Alta | Como gerente da empresa, quero relatórios personalizados sobre métricas essenciais para tomar decisões estratégicas baseadas em dados. | 2 | 2 |
+| 7 | Alta | Como administrador do sistema, quero a capacidade de adicionar e gerenciar informações detalhadas dos fornecedores para facilitar a comunicação e acordos. | 3 | 2 |
+| 8 | Média | Como membro do departamento financeiro, desejo relatórios detalhados para uma análise aprofundada das finanças da empresa. | 2 | 2 |
+| 9 | Média | Como gerente da empresa, desejo relatórios sobre o histórico de movimentação de estoque para entender melhor as demandas e evitar falta ou excesso de produtos. | 4 | 3 |
+| 10 | Média | Como colaborador da empresa, quero um sistema de alertas para informar sobre itens com baixo estoque para agilizar pedidos aos fornecedores. | 3 | 3|
+| 11 | Média | Como usuário de negócios, quero um resumo rápido das promoções atuais e seu impacto nas vendas para identificar estratégias de negócios. | 2 | 3 |
+| 12 | Alta | Como administrador do sistema, desejo funcionalidades de segurança aprimoradas para proteger informações confidenciais de vendas e transações. | 4 | 4 |
+| 13 | Média | Como colaborador da empresa, desejo receber notificações automáticas sobre novos produtos ou atualizações de fornecedores para manter o estoque atualizado. | 2 | 4 |
+| 14 | Baixa | Como colaborador da empresa, gostaria de melhorias na interface do usuário para realizar minhas tarefas diárias com mais facilidade e eficiência. | 4 | 4 |
+| 15 | Baixa | Como colaborador da empresa, desejo um calendario que possa de maneira interna verificar escalas. | 4 | 4 |
+| 16 | Baixa | Como colaborador da empresa, quero um painel para gerenciar minhas próprias informações pessoais e escalas de trabalho de forma mais intuitiva. | 2 | 4 |
+| 17 | Alta | Como administrador do sistema, desejo ter a capacidade de gerenciar permissões de usuários de forma avançada para garantir a segurança e o controle adequado do sistema. | 4 | ? |
+| 18 | Baixa | Como usuário interessado no negócio, quero funcionalidades de feedback para os clientes a fim de melhorar a experiência e fidelizar clientes. | ? | ? |
+
 
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
