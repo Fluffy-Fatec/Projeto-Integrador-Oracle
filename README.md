@@ -102,8 +102,6 @@ Aiming to solve the project, the system will be delivered in four sprints:
 | 17 | Alta | Como administrador do sistema, desejo ter a capacidade de gerenciar permissões de usuários de forma avançada para garantir a segurança e o controle adequado do sistema. | 4 | ? |
 | 18 | Baixa | Como usuário interessado no negócio, quero funcionalidades de feedback para os clientes a fim de melhorar a experiência e fidelizar clientes. | ? | ? |
 
-
-
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Sprint Backlog
