@@ -62,8 +62,6 @@ Aiming to solve the project, the system will be delivered in four sprints:
 |Sprint 3                 | Visualization and management of the establishment's Inputs and Stock data, visualization of comparators for predictability. | System developed with functionalities for inserting data related to inputs and stock, as well as viewing them through various graphs and dynamic filters. It was also implemented the input predictability comparator. |
 |Sprint 4                 | Visualization and management of the establishment's Employees data, comparison of customers x employees x stock, access level. | System will be developed with functionalities for inserting data related to employees and also visualizing them through various graphs and dynamic filters. A comparator of customers x employees x stock, and system access levels will also be implemented. |
 
-
-
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Schedule
@@ -83,30 +81,24 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 | Rank           | Priority    | User Story         | Estimate | Sprint |
 | ---------------| ----------------| -------------------| -----------| -------|
-| 1 | High | Como administrador do sistema, quero ter acesso a um painel de controle em tempo real para monitorar o desempenho do sistema e identificar possíveis problemas rapidamente. | 1 | 1 |
-| 2 | High | Como gerente da empresa, desejo um painel executivo que resuma as principais atividades do sistema para facilitar a análise e o acompanhamento. | 1 | 1 |
-| 3 | High | Como gerente da empresa, desejo ter a capacidade de visualizar o desempenho de vendas por período específico para análise e tomada de decisões. | 1 | 1 |
-| 4 | Medium | Como responsável pelo setor financeiro, quero um sistema de faturamento automatizado e rastreamento de transações para agilizar o processo e garantir precisão. | 1 | 1 |
-| 5 | Medium | Como usuário interessado no negócio, desejo acesso a análises e tendências sobre as preferências dos clientes para identificar oportunidades de negócio. | 3 | 1 |
-| 6 | High | Como gerente da empresa, quero relatórios personalizados sobre métricas essenciais para tomar decisões estratégicas baseadas em dados. | 2 | 2 |
-| 7 | High | Como administrador do sistema, quero a capacidade de adicionar e gerenciar informações detalhadas dos fornecedores para facilitar a comunicação e acordos. | 3 | 2 |
-| 8 | Medium | Como membro do departamento financeiro, desejo relatórios detalhados para uma análise aprofundada das finanças da empresa. | 2 | 2 |
-| 9 | Medium | Como gerente da empresa, desejo relatórios sobre o histórico de movimentação de estoque para entender melhor as demandas e evitar falta ou excesso de produtos. | 4 | 3 |
-| 10 | Medium | Como colaborador da empresa, quero um sistema de alertas para informar sobre itens com baixo estoque para agilizar pedidos aos fornecedores. | 3 | 3|
-| 11 | Medium | Como usuário de negócios, quero um resumo rápido das promoções atuais e seu impacto nas vendas para identificar estratégias de negócios. | 2 | 3 |
-| 12 | High | Como administrador do sistema, desejo funcionalidades de segurança aprimoradas para proteger informações confidenciais de vendas e transações. | 4 | 4 |
-| 13 | Medium | Como colaborador da empresa, desejo receber notificações automáticas sobre novos produtos ou atualizações de fornecedores para manter o estoque atualizado. | 2 | 4 |
-| 14 | Low | Como colaborador da empresa, gostaria de melhorias na interface do usuário para realizar minhas tarefas diárias com mais facilidade e eficiência. | 4 | 4 |
-| 15 | Low | Como colaborador da empresa, desejo um calendario que possa de maneira interna verificar escalas. | 4 | 4 |
-| 16 | Low | Como colaborador da empresa, quero um painel para gerenciar minhas próprias informações pessoais e escalas de trabalho de forma mais intuitiva. | 2 | 4 |
-| 17 | High | Como administrador do sistema, desejo ter a capacidade de gerenciar permissões de usuários de forma avançada para garantir a segurança e o controle adequado do sistema. | 4 | ? |
-| 18 | Low | Como usuário interessado no negócio, quero funcionalidades de feedback para os clientes a fim de melhorar a experiência e fidelizar clientes. | ? | ? |
+| 1 | High | As a system administrator, I want to have access to a real-time control panel to monitor system performance and quickly identify potential issues. | 1 | 1 |
+| 2 | High | As a company manager, I wish for an executive dashboard summarizing key system activities to facilitate analysis and monitoring. | 1 | 1 |
+| 3 | High | As a company manager, I want the ability to view sales performance for a specific period for analysis and decision-making. | 1 | 1 |
+| 4 | Medium | As the head of the finance department, I want an automated billing system and transaction processing to streamline the process and ensure accuracy. | 1 | 1 |
+| 5 | Medium | As a business-interested user, I want access to analyses and trends on customer preferences to identify business opportunities. | 3 | 1 |
+| 6 | High | As a company manager, I want customized reports on essential metrics to make strategic decisions based on data. | 2 | 2 |
+| 7 | High | As a system administrator, I want the ability to add and manage planned vendor information to facilitate communication and agreements. | 3 | 2 |
+| 8 | Medium | As a member of the finance department, I desire detailed reports for in-depth analysis of the company's finances. | 2 | 2 |
+| 9 | Medium | As a company manager, I want reports on the stock delivery history to better meet demands and avoid shortages or excess of products. | 4 | 3 |
+| 10 | Medium | As a company employee, I want an alert system to inform about items with low stock to expedite orders to suppliers. | 3 | 3|
+| 11 | Medium | As a business user, I want a quick summary of current promotions and their impact on sales to identify business strategies. | 2 | 3 |
+| 12 | High | As a system administrator, I want enhanced security features to protect sales and transaction-related information. | 4 | 4 |
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Sprint Backlog
 
-<img src = "./Documentacao/Backlog/imgBacklog_Sprint_2.png" width=80%>
+<img src = "./Documentacao/Backlog/imgBacklog_Sprint_4.png" width=80%>
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
@@ -126,43 +118,37 @@ Aiming to solve the project, the system will be delivered in four sprints:
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-## DER
+## DER Database
 
-### Database
+### Logical Model (James Martin's Notation)
 
-<!-- #### Physical Model (James Martin's Notation)
+<img src = "./Documentacao/DER/DBLogicalModel_4.png">
 
-<img src = "./Documentacao/DER/DBConceptualModel_2.png"> -->
-
-#### Logical Model (James Martin's Notation)
-
-<img src = "./Documentacao/DER/DBLogicalModel_3.png">
-
-### Data Warehouse
+<!--### Data Warehouse
 
 #### Star Model
 
 <img src = "./Documentacao/DER/DW_StarModel_3.png">
 
-<p align="right">(<a href="#top">Scroll to top</a>)</p>
+<p align="right">(<a href="#top">Scroll to top</a>)</p>-->
 
 ## Burndown
 
-<img src = "./Documentacao/Burndown/Burndown_Sprint_3.jpg">
+<img src = "./Documentacao/Burndown/Burndown_Sprint_4.jpg">
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Data Dictionary
 
-[Click here to accesses the Data Dictionary of the Database and Data Warehouse.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/development/Documentacao/Dictionary)
+[Click here to accesses the Data Dictionary of the Database.](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle/blob/develop/Documentacao/Dictionary/Database_Data_Dictionary_Sprint_4.pdf)
 
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
 
-<!--## DevOps Documentation
+## DevOps Documentation
 
-[Click here to accesses the DevOps Documentation.]()
+[Click here to accesses the DevOps Documentation.](https://fluffyfatec.atlassian.net/l/cp/RDTC3CTw)
 
-<p align="right">(<a href="#top">Scroll to top</a>)</p>-->
+<p align="right">(<a href="#top">Scroll to top</a>)</p>
 
 ## Team
 
@@ -176,9 +162,7 @@ Aiming to solve the project, the system will be delivered in four sprints:
 | <img src = "./Documentacao/Team/imgLuiz.jpg" width="60" >|__Luiz Felipe Borges__ | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/luizborges17)   | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/luizborges17/) |
 | <img src = "./Documentacao/Team/imgVictor.jpg" width="60" >|__Victor Fernandes__  | *Developer Team*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/victornaca)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/victor-fernandes-1a61a917b/) |
 
-
 <p align="right">(<a href="#top">Scroll to top</a>)</p>
-
 
 ## Utilized Tecnologies
 <details>
